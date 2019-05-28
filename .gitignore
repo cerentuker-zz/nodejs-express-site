@@ -5,12 +5,8 @@ src
 node_modules
 *.iml
 *.log
-cartridges/**/cartridge/static/default/js/cab.js
-cartridges/**/cartridge/static/default/css/style.css
 *.zip
 sprites.png
-cartridges/**/cartridge/scss/default/_sprite.scss
-cartridges/**/cartridge/scss/default/utilities/_sprite.scss
 !fonts.css
 !style_sg.css
 !opc_style.css

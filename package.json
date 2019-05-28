@@ -1,0 +1,27 @@
+{
+  "name": "static_node_and_express_site-v1",
+  "version": "1.0.0",
+  "description": "Unit 6 - Project: Static Node.js and Express Site",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.0",
+    "gulp": "^4.0.2",
+    "nodemon": "^1.19.0",
+    "pug": "^2.0.3",
+    "gulp-sass-lint": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cerentuker/nodejs-express-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cerentuker/nodejs-express-site/issues"
+  },
+  "homepage": "https://github.com/cerentuker/nodejs-express-site#readme"
+}

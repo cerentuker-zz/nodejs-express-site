@@ -1,0 +1,31 @@
+{
+    "projects" :  [
+        {
+            "id":"0",
+            "project_name":"Project 1",
+            "description":"A project to learn this",
+            "technologies":"Javascript, vanilla js, vscode, git",
+            "live_link":"file:///C:/Users/ceren/OneDrive/Masa%C3%BCst%C3%BC/full%20stack%20training/ex5/public_api_request-v1/index.html",
+            "github_link":"https://github.com/cerentuker/nodejs-express-site",
+            "image_urls":"images\random_employee_landing.PNG"
+        },
+        {
+            "id":"1",
+            "project_name":"Project 2",
+            "description":"A project to learn this",
+            "technologies":"Javascript, jquery, vanilla js, express framework, node js & NPM, pug template engine",
+            "live_link":"file:///C:/Users/ceren/OneDrive/Masa%C3%BCst%C3%BC/full%20stack%20training/ex5/public_api_request-v1/index.html",
+            "github_link":"https://github.com/cerentuker/nodejs-express-site",
+            "image_urls":"images\random_employee_landing.PNG"
+        },
+        {
+            "id":"2",
+            "project_name":"Project 3",
+            "description":"A project to learn this",
+            "technologies":"Javascript, jquery, node js & NPM, pug template engine",
+            "live_link":"file:///C:/Users/ceren/OneDrive/Masa%C3%BCst%C3%BC/full%20stack%20training/ex5/public_api_request-v1/index.html",
+            "github_link":"https://github.com/cerentuker/nodejs-express-site",
+            "image_urls":"images\random_employee_landing.PNG"
+        }
+    ]
+}
